@@ -1,0 +1,6 @@
+.DS_Store
+.settings/*
+gmon.out
+/SwDevelopment/
+/UnitTests (LinuxOS)/
+/UnitTests (macOS)/
