@@ -4,7 +4,8 @@
  * @file    main.c
  * @note
  *        ______________      
- *        Eduardo Heredia Gonzalez
+ *        Eduardo
+ *        Heredia Gonzalez
  *        Diseñador           
  *
  * @brief   main 
